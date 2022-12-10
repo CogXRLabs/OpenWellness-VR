@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ZenGarden.unity
+    guid: e48d1f3d57b31d24f91167f382018e9b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7206d85f6af7b9447b57fbacf27b5cad,
       type: 2}
